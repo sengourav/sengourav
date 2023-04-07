@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Gourav Sen
 
-<!--
+
 **sengourav/sengourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
        EMAIL-ID :- gourav20@iiserb.ac.in
 - 😄 Pronouns: 
 - ⚡ Fun fact: My fun fact is I scare from dogs but at the same time I also love playing with them.
--->
+
