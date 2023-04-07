@@ -1,14 +1,17 @@
-### Hi there 👋 My name is Gourav Sen
 
 
+
+<!--
 **sengourav/sengourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 My name is Gourav Sen
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Machine Learning Project and Android App development.
 <div align="center">
-  <h1 align="center">Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am ARIJIT SAMAL (@1-ARIjitS)</h1>
-  <img src="https://www.dreamstime.com/stock-video-lines-turquoise-blurred-letters-falling-against-black-background-video43140790.mp4"/>
+  <h1 align="center">Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gourav Sen</h1>
+  <img src="[](https://www.dreamstime.com/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-image122741764)"/>
+  
 </div>
 
 
