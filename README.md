@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning Project and Android App development.
 
 
-https://user-images.githubusercontent.com/107364930/230673281-6bdbe804-b40b-4831-8894-179f6ec5fcfe.mp4
+![https://user-images.githubusercontent.com/107364930/230673281-6bdbe804-b40b-4831-8894-179f6ec5fcfe.mp4
 
 
 - 🌱 My favourite programming language is PYTHON. 
