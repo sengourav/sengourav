@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   
 </div>
 - 🔭 I’m currently working on Machine Learning Project and Android App development.
-- 
+
 - 🌱 My favourite programming language is PYTHON. 
 
 ![giphy](https://user-images.githubusercontent.com/107364930/230797037-e6b7037f-6934-433e-85b9-15e35f1d6166.gif)
