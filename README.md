@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h1 align="center">Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gourav Sen</h1>
+  <h1 align="center">Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I am Gourav Sen</h1>
   <img src="https://user-images.githubusercontent.com/107364930/230797037-e6b7037f-6934-433e-85b9-15e35f1d6166.gif"/>
   
 </div>
