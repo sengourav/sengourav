@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 
 </div> 
 - 📫 How to reach me: 
-       LINKEDIN :-https://www.linkedin.com/in/gourav-sen-a837b1210
-
+       LINKEDIN :- 
+       
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-sen-a837b1210)
+       
        PHONE :- (+91) 9098142305
        
        EMAIL-ID :- gourav20@iiserb.ac.in
