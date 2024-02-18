@@ -16,11 +16,11 @@ Here are some ideas to get you started:
   
 
 
-- 🔭 I’m currently working on Machine Learning Project and Android App development.
+- 🔭 I’m currently working on Transformers and Large Language Models.
 
 - 🌱 My favourite programming language is PYTHON. 
 
-- 👯 I’m looking to collaborate on ANDROID APP DEVELOPMENT and MACHINE LEARNING.
+- 👯 I’m looking to collaborate on projects related to Transformers, LLMs, and tasks related to Computer Vision.
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
