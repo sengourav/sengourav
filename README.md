@@ -16,11 +16,13 @@ Here are some ideas to get you started:
   
 
 
-- 🔭 I’m currently working on Transformers and Large Language Models.
 
-- 🌱 My favourite programming language is PYTHON. 
+🤖 **AI/ML Engineer** passionate about pushing the boundaries of artificial intelligence
 
-- 👯 I’m looking to collaborate on projects related to Transformers, LLMs, and tasks related to Computer Vision.
+## What I'm working on
+- 🔬 Deep diving into **Transformers** and **Large Language Models**
+- 🐍 Building scalable solutions with **Python** (my go-to language!)
+- 👁️ Exploring **Computer Vision** applications and research
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
        
        PHONE :- (+91) 9098142305
        
-       EMAIL-ID :- gourav20@iiserb.ac.in
+       EMAIL-ID :- sengourav0704@gmail.com
 
 - ⚡ Fun fact: My fun fact is I scare from dogs but at the same time I also love playing with them.
 
